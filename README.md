@@ -1,5 +1,5 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="uptain.png" width="90px" align="right" alt="uptian.de">](https://www.uptain.de/?utm_source=www.versacommerce.de)
+[<img src="uptain.png" width="100px" align="right" alt="uptian.de">](https://www.uptain.de/?utm_source=www.versacommerce.de)
 
 [VersaCommerce] [integration] [javascript] [Uptain]
 
