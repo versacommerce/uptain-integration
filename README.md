@@ -1,4 +1,4 @@
-[<img src="versacommerce.png" width="250px" height="70px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
+[<img src="versacommerce.png" width="250px" height="60px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
 [<img src="uptain.png" width="150px" height="125px" align="right" alt="uptian.de">](https://www.uptain.de/?utm_source=www.versacommerce.de)
 
 # Uptain Integration for VersaCommerce
